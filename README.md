@@ -16,7 +16,7 @@ Asienta las bases para convertirte en el Data Scientist del futuro con todo el c
 +  Prerrequisitos
 1. Probabilidad
 2. Variables aleatorias
-3. Distribuciones notables
+3. Distribuciones notables PRUEBA 
 4. Complementos avanzados
 5. Variables bidimensionales
 6. Variables multidimensionales
